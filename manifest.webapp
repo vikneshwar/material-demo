@@ -1,0 +1,14 @@
+{
+	"version": "0.1",
+	"name": "Demo App",
+	"Description": "Just a demo app",
+	"launch_path": "/app-template/index.html",
+	"icons":{
+
+	},
+	"developer": {
+		"name": "Vikneshwar",
+		"url": "http://lvikneshwar.wordpress.com"
+	},
+	"default_locales": "en"
+}
